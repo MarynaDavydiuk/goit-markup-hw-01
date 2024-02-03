@@ -1,3 +1,3 @@
-# my_first_project
+# goit-markup-hw-01
 
-This is my first project.
+home work number 1
